@@ -1,3 +1,6 @@
+![Banner](https://github.com/Anurag-Nepal/Anurag-Nepal/raw/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png)
+
+  
   # Hi 👋, I'm Anurag Nepal
   ### Java Backend Developer | Kathmandu, Nepal
 
